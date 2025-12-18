@@ -49,10 +49,7 @@ The project follows a standard **machine learning pipeline**:
 
 ## 🧠 Models Used
 Depending on the notebook configuration, models may include:
-- Logistic Regression  
-- Decision Tree  
-- Random Forest  
-- (Optional) Neural Network  
+- Logistic Regression 
 
 Model selection and justification are explained within the notebook.
 
