@@ -82,4 +82,4 @@ Detailed results, plots, and interpretations are available in the notebook.
 ## ▶️ How to Run
 1. Clone the repository:
    ```bash
-   git clone <>
+   git clone <https://github.com/Abhilipsa082/Customer-Churn/blob/main/customer-churn.ipynb>
